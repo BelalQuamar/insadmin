@@ -1,0 +1,1 @@
+This is a bare skeleton of a MOODLE plugin.
